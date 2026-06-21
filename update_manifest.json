@@ -6,7 +6,7 @@
     "required":  true,
     "patch":  {
                   "url":  "https://github.com/Deluzii/2d-side-scroller-updates/releases/download/v0.1.1/client-0.1.1.pck",
-                  "sha256":  "c2a868d4f0318b390380d650cd90f041017073316fc614c09226c79dda7855c8",
-                  "size":  20707272
+                  "sha256":  "685c3c72de7ce678c9a778e067a72bb5a52e577d2d15d740682cc693260daaed",
+                  "size":  20707512
               }
 }
