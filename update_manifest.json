@@ -1,12 +1,12 @@
 {
     "schema_version":  1,
     "channel":  "stable",
-    "version":  "0.1.5",
+    "version":  "0.1.6",
     "protocol_version":  1,
     "required":  true,
     "patch":  {
-                  "url":  "https://github.com/Deluzii/2d-side-scroller-updates/releases/download/v0.1.5/client-0.1.5.pck",
-                  "sha256":  "661e5d2e1deb46cdd8775a02eba3a8f1235104dbf19b8d15e3de95bcaad86ffc",
+                  "url":  "https://github.com/Deluzii/2d-side-scroller-updates/releases/download/v0.1.6/client-0.1.6.pck",
+                  "sha256":  "8715a3431ae7916d80bf4f852bcf2ca8f1758502f158d4e7fdf59f3bad1b7641",
                   "size":  20769348
               }
 }
